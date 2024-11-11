@@ -1,8 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Frontend Assessment with Tailwind CSS
 
-Currently, two official plugins are available:
+This project includes two React components styled with Tailwind CSS:
+1. `UserCard` - Displays a user's name and email address.
+2. `GreetingForm` - Allows the user to input their name and displays a greeting message.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/Bukasuji/React-assessment.git>
+   cd frontend-assessment
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Start development server:  
+   ```bash
+   npm start 
