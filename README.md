@@ -16,8 +16,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Bukasuji/React-assessment.git>
-   cd frontend-assessment
+   git clone https://github.com/Bukasuji/React-assessment.git
 
 2. Install dependencies:
    ```bash
